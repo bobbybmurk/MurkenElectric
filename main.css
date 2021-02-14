@@ -1,0 +1,57 @@
+a {
+    font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+
+.small-peen {
+    padding-top: 50px;
+}
+
+.navbar {
+
+}
+
+h1 {
+    font-family: "Comfortaa", sans-serif;
+}
+
+.bottom {
+    padding-bottom: 200px;
+}
+
+.cover {
+    min-height: 30vh;
+}
+
+.superSizeMe {
+    min-height: 10vh;
+    min-width: 30vh;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.title {
+    padding-top: 100px;
+}
+
+a {
+    color: white;
+}
+
+.About {
+    padding: 40px;
+}
+
+.btn-primary {
+    padding-top: 10px;
+}
+
+.services {
+    padding: 30px;
+}
+
+.bio {
+    padding-bottom: 100px;
+}
